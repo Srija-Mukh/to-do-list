@@ -7,5 +7,5 @@ A simple to do list created using JavaScript and an Express Server.
 
 
 #### Credits:
-• 2022 Wed Development Bootcamp - Udemy, Angela Yu. 
+• 2022 Wed Development Bootcamp - Udemy, Angela Yu. <br />
 • Date formatted in date.js using https://stackoverflow.com/questions/3552461/how-to-format-a-javascript-date 
